@@ -95,10 +95,11 @@ results/travel_report_YYYY-MM-DD.json: 통합 원본 데이터 (1차 추천, 맛
 
 results/YYYY-MM-DD_travel_plan.md: 가독성을 높인 인쇄용 마크다운 리포트
 
+
 ---
 
 
-## 📋 5. 최종 마크다운 리포트 형식 예시
+### 📋 5. 최종 마크다운 리포트 형식 예시       
 생성되는 .md 파일은 아래와 같은 표준 레이아웃을 지니며, 특정 API 호출이 실패하더라도 깨지지 않는 견고한 구조를 보장합니다.
 
 Markdown
