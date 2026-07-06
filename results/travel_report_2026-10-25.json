@@ -1,0 +1,56 @@
+{
+    "search_date": "2026-10-25",
+    "recommendation_info": {
+        "destination": "전주",
+        "weather_summary": "10월 말 전주는 온화하고 쾌청한 날씨를 보입니다. 낮 기온은 보통 10~18도, 밤 기온은 5~10도 내외로 쌀쌀하지만, 대체로 맑고 건조하며 가을 단풍을 즐기기에 완벽합니다.",
+        "local_events": [
+            "전주 비빔밥 축제 (Jeonju Bibimbap Festival)",
+            "전주 한옥마을 전통 문화 공연 (Traditional Cultural Performances at Jeonju Hanok Village)",
+            "경기전 및 오목대 가을 단풍 감상 (Autumn Foliage Viewing at Gyeonggijeon and Omokdae)"
+        ],
+        "recommendation_reason": "전주는 10월 말 여행하기에 아주 좋은 도시입니다. 특히 이 시기에는 지역 대표 음식인 비빔밥을 주제로 한 '전주 비빔밥 축제'가 열려 다채로운 먹거리와 볼거리를 제공합니다. 쾌청한 가을 날씨 속에서 전주 한옥마을을 거닐며 전통문화를 체험하고, 경기전과 오목대 등지에서 아름다운 가을 단풍을 만끽할 수 있어 잊지 못할 추억을 만들기에 최적의 장소입니다."
+    },
+    "naver_restaurants": [
+        {
+            "name": "평화와평화",
+            "address": "전북특별자치도 전주시 완산구 중앙동3가 29 3층",
+            "category": "음식점>카페,디저트",
+            "url": "https://smartstore.naver.com/peaceorpeace",
+            "x": "1271448925",
+            "y": "358170500"
+        },
+        {
+            "name": "베테랑 칼국수",
+            "address": "전북특별자치도 전주시 완산구 교동 84-10",
+            "category": "분식>종합분식",
+            "url": "https://smartstore.naver.com/veteran1977",
+            "x": "1271514102",
+            "y": "358134275"
+        },
+        {
+            "name": "카페이르리",
+            "address": "전북특별자치도 전주시 완산구 교동 63-13",
+            "category": "음식점>카페,디저트",
+            "url": "https://www.instagram.com/ireuri_cafe.jeonjuhanok/",
+            "x": "1271528713",
+            "y": "358139145"
+        },
+        {
+            "name": "조점례남문피순대",
+            "address": "전북특별자치도 전주시 완산구 전동3가 2-240 조점례 남문피순대",
+            "category": "한식>순대,순댓국",
+            "url": "https://smartstore.naver.com/jojeomrye_korea_food",
+            "x": "1271469642",
+            "y": "358125490"
+        },
+        {
+            "name": "마시랑게",
+            "address": "전북특별자치도 전주시 완산구 전동 64-1 1층 2층",
+            "category": "음식점>카페,디저트",
+            "url": "https://www.instagram.com/masirange/",
+            "x": "1271488714",
+            "y": "358145770"
+        }
+    ],
+    "errors": []
+}

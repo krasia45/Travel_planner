@@ -1,0 +1,54 @@
+{
+    "search_date": "2026-10-15",
+    "recommendation_info": {
+        "destination": "경주",
+        "weather_summary": "10월 중순 경주는 쾌청하고 선선한 전형적인 가을 날씨입니다. 낮 기온은 보통 15~20도 사이로 활동하기 매우 좋으며, 저녁에는 다소 쌀쌀해질 수 있습니다. 단풍이 절정에 달하는 시기입니다.",
+        "local_events": [
+            "신라문화제 (Silla Culture Festival)"
+        ],
+        "recommendation_reason": "경주는 10월 중순이 단풍 절정기로, 신라 시대 유적지와 어우러진 아름다운 가을 풍경을 감상하기에 최적의 시기입니다. 쾌청하고 선선한 날씨 덕분에 불국사, 첨성대 등 야외 관광지를 여유롭게 둘러보기 좋습니다. 역사와 자연의 아름다움을 동시에 느낄 수 있어 풍요로운 가을 여행을 위한 최고의 선택이 될 것입니다."
+    },
+    "naver_restaurants": [
+        {
+            "name": "포석로 소갈비찜",
+            "address": "경상북도 경주시 황남동 228-1",
+            "category": "음식점>한식",
+            "url": "https://www.instagram.com/poseok_ro",
+            "x": "1292118391",
+            "y": "358359027"
+        },
+        {
+            "name": "큰기와 황리단길 본점",
+            "address": "경상북도 경주시 사정동 116-2 1층",
+            "category": "한식>육류,고기요리",
+            "url": "",
+            "x": "1292079072",
+            "y": "358349813"
+        },
+        {
+            "name": "우마왕 경주본점",
+            "address": "경상북도 경주시 보문동 33-81",
+            "category": "한식>갈비탕",
+            "url": "https://smartstore.naver.com/woomawang",
+            "x": "1292542505",
+            "y": "358428658"
+        },
+        {
+            "name": "청온채",
+            "address": "경상북도 경주시 사정동 29-1 청온채",
+            "category": "음식점>한식",
+            "url": "https://app.catchtable.co.kr/ct/shop/cheongonchae",
+            "x": "1292087986",
+            "y": "358376216"
+        },
+        {
+            "name": "황남빵",
+            "address": "경상북도 경주시 황오동 347-1",
+            "category": "카페,디저트>베이커리",
+            "url": "https://hwangnam.com",
+            "x": "1292136375",
+            "y": "358408903"
+        }
+    ],
+    "errors": []
+}
