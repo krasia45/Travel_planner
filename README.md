@@ -17,3 +17,16 @@
 ```bash
 # 가상환경 진입 상태에서 파이썬 스크립트 가동 (날짜 파라미터 필수 입력)
 ./venv/bin/python travel_planner.py --date "2026-10-15"
+
+## 🔑 API Key 설정 방법
+
+이 프로그램은 **Google Gemini API**와 **Naver Search API**를 사용합니다. 
+보안을 위해 API 키는 소스 코드에 직접 작성하지 않으며, 프로젝트 루트 디렉토리에 `.env` 파일을 생성하여 환경변수로 관리합니다.
+
+### 1. `.env` 파일 생성
+프로젝트 최상위 폴더(travel_planner.py가 있는 위치)에 `.env` 파일을 새로 만들고 아래 내용을 입력합니다.
+
+```env
+GEMINI_API_KEY="your_gemini_api_key_here"
+NAVER_CLIENT_ID="your_naver_client_id_here"
+NAVER_CLIENT_SECRET="your_naver_client_secret_here"
