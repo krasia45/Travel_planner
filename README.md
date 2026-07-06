@@ -12,12 +12,6 @@
 프로그램을 가동하면 프로젝트 루트 하위에 `results/` 디렉터리가 생성되며 다음 파일이 영구 기록됩니다.
 - **원본 통합 JSON**: `travel_report_YYYY-MM-DD.json` (1차 추천 결과 + 네이버 데이터 + 오류 수집 스키마 포함)
 - **최종 여행 리포트**: `YYYY-MM-DD_travel_plan.md` (마크다운 포맷 보고서)
-
-## 3. 실행 방법
-```bash
-# 가상환경 진입 상태에서 파이썬 스크립트 가동 (날짜 파라미터 필수 입력)
-./venv/bin/python travel_planner.py --date "2026-10-15"
-
 ## 🔑 API Key 설정 방법
 
 이 프로그램은 **Google Gemini API**와 **Naver Search API**를 사용합니다. 
@@ -30,3 +24,9 @@
 GEMINI_API_KEY="your_gemini_api_key_here"
 NAVER_CLIENT_ID="your_naver_client_id_here"
 NAVER_CLIENT_SECRET="your_naver_client_secret_here"
+
+## 3. 실행 방법
+```bash
+# 가상환경 진입 상태에서 파이썬 스크립트 가동 (날짜 파라미터 필수 입력)
+./venv/bin/python travel_planner.py --date "2026-10-15"
+
