@@ -101,6 +101,92 @@ source venv/bin/activate
 pip install python-dotenv requests google-genai --break-system-packages
 
 
+## 3. 환경 변수 파일(.env) 생성 및 비밀 키 설정
+
+1. VS Code 왼쪽 **파일 탐색기(File Explorer)**의 빈 공간을 마우스 우클릭합니다.
+2. **New File**을 선택한 후 `.env` 파일을 생성합니다.
+3. 생성한 `.env` 파일에 아래 내용을 입력한 뒤 저장합니다. (`Command + S` 또는 `Ctrl + S`)
+
+```env
+GEMINI_API_KEY="본인의_구글_제미나이_API_KEY"
+NAVER_CLIENT_ID="본인의_네이버_클라이언트_ID"
+NAVER_CLIENT_SECRET="본인의_네이버_클라이언트_SECRET"
+```
+
+> **⚠️ 보안 주의사항**
+>
+> `.env` 파일에는 개인 API 비밀 키가 저장되므로 **절대로 GitHub에 업로드하면 안 됩니다.**
+>
+> 반드시 `.gitignore` 파일에 `.env`가 포함되어 있는지 확인하여 Git 저장소에 커밋되지 않도록 설정하세요.
+
+---
+
+## 4. 프로그램 최종 실행
+
+모든 환경 설정이 완료되었다면 터미널에서 아래 명령어를 실행합니다.
+
+> **📌 날짜 입력 규칙**
+>
+> 날짜는 반드시 `YYYY-MM-DD` 형식을 사용해야 합니다.
+>
+> 월(`MM`)과 일(`DD`)이 한 자리인 경우에도 반드시 앞에 `0`을 붙여 **10자리 형식**을 유지해야 합니다.
+>
+> **예시**
+>
+> - `2026-09-05` ✅
+> - `2026-10-15` ✅
+> - `2026-9-5` ❌
+
+```bash
+# 실행 예시
+python travel_planner.py --date "2026-10-15"
+```
+
+---
+
+# 📂 7. 영속성 결과물(Persistence Output) 구조
+
+프로그램이 정상적으로 실행되면 `results/` 디렉터리에 입력한 날짜를 기준으로 아래 두 개의 결과 파일이 자동 생성됩니다.
+
+## 1. 백엔드 원본 데이터(JSON)
+
+```text
+results/travel_report_YYYY-MM-DD.json
+```
+
+이 파일에는 다음 정보가 포함됩니다.
+
+- 복수 추천 여행지 정보
+- 네이버 API 검색 결과
+- API 실패 시 자동 적용된 폴백(Fallback) 장소 정보
+- 프로그램 실행 중 발생한 오류 및 경고(`errors`) 기록
+- 최종 생성된 백엔드 원본 데이터
+
+---
+
+## 2. 사용자용 여행 리포트(Markdown)
+
+```text
+results/YYYY-MM-DD_travel_plan.md
+```
+
+JSON 데이터를 사람이 읽기 쉽도록 가공한 여행 리포트입니다.
+
+VS Code에서 해당 파일을 연 뒤 우측 상단의 **Open Preview** 아이콘을 클릭하면 매거진 형태의 마크다운 문서로 확인할 수 있습니다.
+
+> **💡 Tip**
+>
+> Markdown Preview 기능을 사용하면 이미지, 표, 제목 등이 보기 좋게 렌더링되어 최종 결과물을 더욱 편리하게 확인할 수 있습니다.
+
+
+
+
+
+
+
+
+
+
 # 🗺️ 2026-11-15 국내 여행 추천 리포트
 
 ## 📍 후보 1: 전주
