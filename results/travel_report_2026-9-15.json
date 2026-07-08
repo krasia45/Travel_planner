@@ -1,0 +1,17 @@
+{
+    "search_date": "2026-9-15",
+    "recommendation_info": {
+        "destination": "데이터 없음",
+        "weather_summary": "데이터 없음",
+        "local_events": [],
+        "recommendation_reason": "데이터 없음"
+    },
+    "naver_restaurants": [],
+    "errors": [
+        {
+            "step": "llm_generation",
+            "type": "PARSING_ERROR",
+            "message": "Gemini Parsing Failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        }
+    ]
+}

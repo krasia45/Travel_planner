@@ -1,0 +1,140 @@
+{
+    "search_date": "2026-11-15",
+    "recommendations": [
+        {
+            "destination": "전주",
+            "weather_summary": "쌀쌀하고 건조한 늦가을 날씨로, 낮에는 활동하기 좋으나 아침저녁으로는 서늘합니다.",
+            "local_events": [
+                "전주 한옥마을 상설 문화 체험",
+                "전주 남부시장 야시장 (금, 토 운영)"
+            ],
+            "recommendation_reason": "11월 중순의 전주는 한옥마을의 고즈넉한 정취와 전통 문화를 깊이 체험하기에 이상적입니다. 비빔밥, 콩나물국밥 등 전주 특유의 풍성한 먹거리를 즐기며 쌀쌀한 날씨 속에서 따뜻한 한옥의 매력을 만끽하기 좋습니다. 단풍은 대부분 졌겠지만, 고풍스러운 한옥과 어우러진 가을 끝자락의 풍경이 아름답습니다.",
+            "restaurants": [
+                {
+                    "title": "평화와평화",
+                    "link": "https://smartstore.naver.com/peaceorpeace",
+                    "category": "음식점>카페,디저트",
+                    "description": "",
+                    "telephone": "",
+                    "address": "전북특별자치도 전주시 완산구 중앙동3가 29 3층",
+                    "roadAddress": "전북특별자치도 전주시 완산구 전라감영4길 16-7 3층",
+                    "mapx": "1271448925",
+                    "mapy": "358170500"
+                },
+                {
+                    "title": "베테랑 칼국수",
+                    "link": "https://smartstore.naver.com/veteran1977",
+                    "category": "분식>종합분식",
+                    "description": "",
+                    "telephone": "",
+                    "address": "전북특별자치도 전주시 완산구 교동 84-10",
+                    "roadAddress": "전북특별자치도 전주시 완산구 경기전길 135",
+                    "mapx": "1271514102",
+                    "mapy": "358134275"
+                },
+                {
+                    "title": "카페이르리",
+                    "link": "https://www.instagram.com/ireuri_cafe.jeonjuhanok/",
+                    "category": "음식점>카페,디저트",
+                    "description": "",
+                    "telephone": "",
+                    "address": "전북특별자치도 전주시 완산구 교동 63-13",
+                    "roadAddress": "전북특별자치도 전주시 완산구 은행로 69",
+                    "mapx": "1271528713",
+                    "mapy": "358139145"
+                }
+            ]
+        },
+        {
+            "destination": "부산",
+            "weather_summary": "해양성 기후로 내륙보다 비교적 온화하나, 바닷바람이 쌀쌀하게 느껴질 수 있습니다. 맑고 청량한 날씨가 예상됩니다.",
+            "local_events": [
+                "자갈치 시장",
+                "국제시장",
+                "광복동 트리 축제 (시기상 시작될 가능성 있음)"
+            ],
+            "recommendation_reason": "늦가을 부산은 해양 도시 특유의 활기찬 분위기와 함께 상대적으로 온화한 날씨를 즐길 수 있습니다. 아름다운 해변과 해안 풍경을 감상하며 따뜻한 돼지국밥이나 신선한 해산물을 맛보기에 좋습니다. 광복동 트리 축제 등 연말 분위기가 시작될 수도 있어 다채로운 매력을 선사합니다.",
+            "restaurants": [
+                {
+                    "title": "도우개러지 피자 전포점",
+                    "link": "https://app.catchtable.co.kr/ct/shop/DOUGHGARAGEJeonpo",
+                    "category": "음식점>피자",
+                    "description": "",
+                    "telephone": "",
+                    "address": "부산광역시 부산진구 전포동 674-15 1층 도우개러지",
+                    "roadAddress": "부산광역시 부산진구 서전로46번길 8 1층 도우개러지",
+                    "mapx": "1290647528",
+                    "mapy": "351573080"
+                },
+                {
+                    "title": "조개대표 광안본점",
+                    "link": "https://www.instagram.com/clam_food_in_busan/",
+                    "category": "한식>조개요리",
+                    "description": "",
+                    "telephone": "",
+                    "address": "부산광역시 수영구 광안동 201-1 204호",
+                    "roadAddress": "부산광역시 수영구 광남로94번길 16 204호",
+                    "mapx": "1291153155",
+                    "mapy": "351498913"
+                },
+                {
+                    "title": "솔내음한정식 해운대본점",
+                    "link": "https://blog.naver.com/ak49999",
+                    "category": "한식>한정식",
+                    "description": "",
+                    "telephone": "",
+                    "address": "부산광역시 해운대구 중동 1509-5 이조빌딩 3층 솔내음한정식",
+                    "roadAddress": "부산광역시 해운대구 달맞이길117번길 17-11 이조빌딩 3층 솔내음한정식",
+                    "mapx": "1291749953",
+                    "mapy": "351585881"
+                }
+            ]
+        },
+        {
+            "destination": "제주",
+            "weather_summary": "한국 본토보다 온화한 기온을 유지하지만, 바람이 강할 수 있어 체감 온도는 쌀쌀할 수 있습니다. 맑은 날씨가 많습니다.",
+            "local_events": [
+                "감귤 따기 체험 (농장별)",
+                "동백꽃 개화 (일부 지역 시작)",
+                "한라산 단풍 절정기 이후 겨울 풍경 감상"
+            ],
+            "recommendation_reason": "11월 중순 제주도는 늦가을의 정취와 초겨울의 이국적인 풍경을 동시에 경험할 수 있는 최적의 시기입니다. 황금빛 감귤이 가득한 과수원에서 감귤 따기 체험을 하거나, 서귀포 일대에서 피어나는 동백꽃을 미리 만나볼 수 있습니다. 본토보다 온화한 날씨 덕분에 야외 활동을 즐기기에도 부담이 적습니다.",
+            "restaurants": [
+                {
+                    "title": "우진해장국",
+                    "link": "",
+                    "category": "한식>향토음식",
+                    "description": "",
+                    "telephone": "",
+                    "address": "제주특별자치도 제주시 삼도이동 831",
+                    "roadAddress": "제주특별자치도 제주시 서사로 11",
+                    "mapx": "1265199459",
+                    "mapy": "335115338"
+                },
+                {
+                    "title": "이춘옥원조고등어쌈밥 <b>제주</b>애월본점",
+                    "link": "https://www.instagram.com/jeju_gossam",
+                    "category": "한식>쌈밥",
+                    "description": "",
+                    "telephone": "",
+                    "address": "제주특별자치도 제주시 애월읍 하귀1리 266-1",
+                    "roadAddress": "제주특별자치도 제주시 애월읍 일주서로 7213",
+                    "mapx": "1264186804",
+                    "mapy": "334889860"
+                },
+                {
+                    "title": "모루쿠다 서귀포올레시장점",
+                    "link": "https://www.instagram.com/jejusujeyori/",
+                    "category": "한식>해물,생선요리",
+                    "description": "",
+                    "telephone": "",
+                    "address": "제주특별자치도 서귀포시 서귀동 204-2 1층 모루쿠다 서귀포올레시장점",
+                    "roadAddress": "제주특별자치도 서귀포시 태평로431번길 32 1층 모루쿠다 서귀포올레시장점",
+                    "mapx": "1265661380",
+                    "mapy": "332482301"
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

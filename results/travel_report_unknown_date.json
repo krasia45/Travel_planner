@@ -1,0 +1,17 @@
+{
+    "search_date": "unknown_date",
+    "recommendation_info": {
+        "destination": "데이터 없음",
+        "weather_summary": "데이터 없음",
+        "local_events": [],
+        "recommendation_reason": "데이터 없음"
+    },
+    "naver_restaurants": [],
+    "errors": [
+        {
+            "step": "init",
+            "type": "AUTH_ERROR",
+            "message": "API credentials missing in .env"
+        }
+    ]
+}
