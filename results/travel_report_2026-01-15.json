@@ -1,0 +1,115 @@
+{
+    "search_date": "2026-01-15",
+    "recommendations": [
+        {
+            "destination": "화천 (Hwacheon)",
+            "weather_summary": "매우 춥고 눈이 자주 내리며, 기온은 영하 10도 이하로 떨어지는 경우가 많습니다.",
+            "local_events": [
+                "화천 산천어축제"
+            ],
+            "recommendation_reason": "1월 중순의 화천은 진정한 겨울 왕국으로 변모하며, 세계 4대 겨울 축제 중 하나인 화천 산천어축제가 개최됩니다. 얼음낚시, 맨손 산천어 잡기 등 독특하고 스릴 넘치는 겨울 액티비티를 즐길 수 있어 추운 날씨에도 불구하고 많은 방문객을 유치합니다. 꽁꽁 언 강 위에서 즐기는 짜릿한 경험은 잊을 수 없는 겨울 추억을 선사할 것입니다.",
+            "restaurants": [
+                {
+                    "name": "감성커피 화천사내점",
+                    "address": "강원특별자치도 화천군 사내면 문화마을1길 121",
+                    "category": "음식점>카페,디저트",
+                    "url": ""
+                },
+                {
+                    "name": "맘스터치 화천점",
+                    "address": "강원특별자치도 화천군 화천읍 상승로 46-1",
+                    "category": "양식>맘스터치",
+                    "url": "https://momstouch.co.kr"
+                },
+                {
+                    "name": "화천 산꼼장어",
+                    "address": "강원특별자치도 화천군 화천읍 중앙로4길 12 가8동 35호",
+                    "category": "음식점>한식",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "destination": "제주 (Jeju)",
+            "weather_summary": "비교적 온화하나 여전히 쌀쌀하며, 바람이 많이 불 수 있습니다. 눈이 오기도 하지만 쌓이는 경우는 드뭅니다.",
+            "local_events": [
+                "제주 동백꽃 축제"
+            ],
+            "recommendation_reason": "1월의 제주는 겨울 특유의 고즈넉한 아름다움을 만끽할 수 있는 최적의 시기입니다. 만개한 동백꽃이 섬 전체를 붉게 물들이며, 한라산 설경은 신비로운 풍경을 선사합니다. 비교적 온화한 기온 속에서 아름다운 해안도로 드라이브와 따뜻한 실내 카페 투어를 즐기며 여유로운 겨울 여행을 계획하기에 좋습니다.",
+            "restaurants": [
+                {
+                    "name": "찰리공장 제주동문시장본점",
+                    "address": "제주특별자치도 제주시 중앙로13길 21 찰리공장 제주동문시장본점",
+                    "category": "음식점>카페,디저트",
+                    "url": "https://www.instagram.com/charliefactory_jeju"
+                },
+                {
+                    "name": "색달식당 순살갈치조림 서귀포본점",
+                    "address": "제주특별자치도 서귀포시 예래로 255-18 1층 색달식당",
+                    "category": "한식>해물,생선요리",
+                    "url": "https://app.catchtable.co.kr/ct/shop/jeju.seakdal?from=share&type=WAITING"
+                },
+                {
+                    "name": "제주오성 순살갈치조림 제주도 중문 본점",
+                    "address": "제주특별자치도 서귀포시 중문관광로 27 제주오성 갈치조림 제주도 중문 본점",
+                    "category": "한식>생선구이",
+                    "url": "https://blog.naver.com/learning2021"
+                },
+                {
+                    "name": "고집돌우럭 제주공항점",
+                    "address": "제주특별자치도 제주시 임항로 30",
+                    "category": "한식>향토음식",
+                    "url": "http://www.instagram.com/gozip_jeju"
+                },
+                {
+                    "name": "아베베 베이커리 제주",
+                    "address": "제주특별자치도 제주시 동문로6길 4 1-3층(일도일동)",
+                    "category": "카페,디저트>베이커리",
+                    "url": "https://www.instagram.com/bakery_abebe"
+                }
+            ]
+        },
+        {
+            "destination": "부산 (Busan)",
+            "weather_summary": "쌀쌀하고 바람이 불지만 다른 내륙 지역에 비해 비교적 온화합니다. 눈은 거의 오지 않습니다.",
+            "local_events": [
+                "해운대 빛축제",
+                "부산 크리스마스트리문화축제 (일부 종료될 수 있으나 연말연시 분위기 지속)"
+            ],
+            "recommendation_reason": "1월의 부산은 매서운 추위를 피해 비교적 온화한 날씨 속에서 도시의 활기를 느낄 수 있는 매력적인 여행지입니다. 겨울 바다의 낭만을 즐기며 해운대, 광안리 등 유명 해변을 거닐 수 있으며, 따뜻한 어묵과 신선한 해산물 요리로 몸과 마음을 녹일 수 있습니다. 연말연시 분위기가 이어지는 빛축제 등 겨울 시즌 특별 행사도 즐길 수 있어 다채로운 경험을 선사합니다.",
+            "restaurants": [
+                {
+                    "name": "부산토박이돼지국밥 광안본점",
+                    "address": "부산광역시 수영구 광안로 64 1층 부산토박이 돼지국밥 광안본점",
+                    "category": "한식>국밥",
+                    "url": ""
+                },
+                {
+                    "name": "파크 하얏트 부산",
+                    "address": "부산광역시 해운대구 마린시티1로 51",
+                    "category": "숙박>호텔",
+                    "url": "https://www.hyatt.com/ko-KR/hotel/south-korea/park-hyatt-busan/busph"
+                },
+                {
+                    "name": "스시마이우 부산대점",
+                    "address": "부산광역시 금정구 부산대학로 34 1층",
+                    "category": "음식점>일식>초밥,롤",
+                    "url": ""
+                },
+                {
+                    "name": "부산삼겹살 하단본점 숯불갈비",
+                    "address": "부산광역시 사하구 낙동대로535번길 14 1층 부산삼겹살 하단본점",
+                    "category": "한식>돼지고기구이",
+                    "url": "https://booking.naver.com/booking/6/bizes/832350"
+                },
+                {
+                    "name": "장인닭갈비 서면점",
+                    "address": "부산광역시 부산진구 중앙대로692번길 46 1층",
+                    "category": "한식>닭갈비",
+                    "url": "https://jangindak.co.kr/"
+                }
+            ]
+        }
+    ],
+    "errors": []
+}
