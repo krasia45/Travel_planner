@@ -1,0 +1,129 @@
+{
+    "search_date": "2026-02-10",
+    "recommendations": [
+        {
+            "destination": "평창",
+            "weather_summary": "2월 10일 평창은 매우 춥고 눈이 많이 내릴 수 있으며, 영하권 기온이 지속됩니다. 방한 준비를 철저히 해야 합니다.",
+            "local_events": [
+                "대관령 눈꽃축제 (예상)",
+                "용평리조트 및 알펜시아 스키/스노보드"
+            ],
+            "recommendation_reason": "2월은 평창에서 겨울의 정취를 만끽하기 좋은 시기입니다. 이 시기에 대관령 눈꽃축제가 열릴 가능성이 높으며, 눈 덮인 대관령의 아름다운 설경을 감상하고 다양한 겨울 액티비티를 즐길 수 있습니다. 스키, 스노보드 등 겨울 스포츠를 즐기기에도 최적의 장소입니다.",
+            "restaurants": [
+                {
+                    "name": "평창한우마을 대관령점",
+                    "address": "강원특별자치도 평창군 대관령면 경강로 5195-25",
+                    "category": "음식점>한식>육류,고기요리>소고기구이",
+                    "url": "https://blog.naver.com/pchwtown"
+                },
+                {
+                    "name": "평창한우마을 면온점",
+                    "address": "강원특별자치도 평창군 봉평면 진조길 57",
+                    "category": "음식점>한식>육류,고기요리>소고기구이",
+                    "url": "http://www.pchw.co.kr/"
+                },
+                {
+                    "name": "평창한우다래",
+                    "address": "강원특별자치도 평창군 봉평면 태기로 120 평창한우다래",
+                    "category": "한식>소고기구이",
+                    "url": "http://www.daraetown.com/"
+                },
+                {
+                    "name": "메밀꽃향기",
+                    "address": "강원특별자치도 평창군 봉평면 이효석길 33-5",
+                    "category": "한식>막국수",
+                    "url": "http://www.봉평맛집.com"
+                },
+                {
+                    "name": "메밀꽃필무렵",
+                    "address": "강원특별자치도 평창군 봉평면 이효석길 33-13",
+                    "category": "한식>막국수",
+                    "url": "https://youtube.com/@gasanhouse"
+                }
+            ]
+        },
+        {
+            "destination": "제주",
+            "weather_summary": "2월 10일 제주는 육지보다 비교적 온화하지만 쌀쌀하며, 바람이 강하게 불 수 있습니다. 한라산에는 눈이 쌓여 겨울 등반의 묘미를 느낄 수 있습니다.",
+            "local_events": [
+                "제주 동백꽃 개화 절정기",
+                "한라산 설경 감상 및 겨울 등반"
+            ],
+            "recommendation_reason": "2월의 제주는 육지보다 비교적 온화한 기후 속에서 특별한 겨울 풍경을 선사합니다. 이 시기에는 만개한 동백꽃을 감상할 수 있으며, 눈 덮인 한라산의 절경은 겨울 등반의 묘미를 더합니다. 실내 박물관과 아늑한 카페도 많아 추위를 피해 즐길 거리가 풍부합니다.",
+            "restaurants": [
+                {
+                    "name": "우진해장국",
+                    "address": "제주특별자치도 제주시 서사로 11",
+                    "category": "한식>향토음식",
+                    "url": ""
+                },
+                {
+                    "name": "이춘옥원조고등어쌈밥 제주애월본점",
+                    "address": "제주특별자치도 제주시 애월읍 일주서로 7213",
+                    "category": "한식>쌈밥",
+                    "url": "https://www.instagram.com/jeju_gossam"
+                },
+                {
+                    "name": "모루쿠다 서귀포올레시장점",
+                    "address": "제주특별자치도 서귀포시 태평로431번길 32 1층 모루쿠다 서귀포올레시장점",
+                    "category": "한식>해물,생선요리",
+                    "url": "https://www.instagram.com/jejusujeyori/"
+                },
+                {
+                    "name": "고집돌우럭 중문점",
+                    "address": "제주특별자치도 서귀포시 일주서로 879",
+                    "category": "한식>향토음식",
+                    "url": "http://www.instagram.com/gozip_jeju"
+                },
+                {
+                    "name": "동문올레수산 동문시장 본점",
+                    "address": "제주특별자치도 제주시 관덕로14길 10 동문올레수산 동문시장 본점",
+                    "category": "한식>생선회",
+                    "url": "https://blog.naver.com/tlqndi2001"
+                }
+            ]
+        },
+        {
+            "destination": "부산",
+            "weather_summary": "2월 10일 부산은 다른 지역보다 포근한 날씨를 보이지만, 바닷바람이 강해 체감 온도는 쌀쌀할 수 있습니다. 눈은 거의 오지 않습니다.",
+            "local_events": [
+                "겨울 해운대 및 광안리 해변 산책",
+                "자갈치시장 및 국제시장 구경"
+            ],
+            "recommendation_reason": "2월의 부산은 다른 지역보다 포근한 날씨 속에서 활기찬 도시의 매력을 느낄 수 있는 곳입니다. 겨울 바다의 운치를 즐기며 해변을 산책하거나, 따뜻한 실내에서 해운대, 광안리 등 아름다운 해안선을 감상하기 좋습니다. 신선한 해산물이 풍부한 계절이라 미식 여행지로도 탁월합니다.",
+            "restaurants": [
+                {
+                    "name": "도우개러지 피자 전포점",
+                    "address": "부산광역시 부산진구 서전로46번길 8 1층 도우개러지",
+                    "category": "음식점>피자",
+                    "url": "https://app.catchtable.co.kr/ct/shop/DOUGHGARAGEJeonpo"
+                },
+                {
+                    "name": "조개대표 광안본점",
+                    "address": "부산광역시 수영구 광남로94번길 16 204호",
+                    "category": "한식>조개요리",
+                    "url": "https://www.instagram.com/clam_food_in_busan/"
+                },
+                {
+                    "name": "솔내음한정식 해운대본점",
+                    "address": "부산광역시 해운대구 달맞이길117번길 17-11 이조빌딩 3층 솔내음한정식",
+                    "category": "한식>한정식",
+                    "url": "https://blog.naver.com/ak49999"
+                },
+                {
+                    "name": "어느멋진날",
+                    "address": "부산광역시 기장군 일광읍 기장해안로 1286 (기장 일광해수욕장 해변 바로 앞)",
+                    "category": "한식>백반,가정식",
+                    "url": "https://app.catchtable.co.kr/ct/shop/onefineday"
+                },
+                {
+                    "name": "광안리 산해횟집",
+                    "address": "부산광역시 수영구 광안해변로344번길 17-20 풍경타워 8층 광안리 산해횟집",
+                    "category": "한식>생선회",
+                    "url": "https://blog.naver.com/yjh7717a"
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

@@ -1,0 +1,19 @@
+{
+    "search_date": "21923323",
+    "recommendations": [
+        {
+            "destination": "데이터 없음",
+            "weather_summary": "데이터 없음",
+            "local_events": [],
+            "recommendation_reason": "데이터 없음",
+            "restaurants": []
+        }
+    ],
+    "errors": [
+        {
+            "step": "Date Validation",
+            "type": "Invalid Format",
+            "message": "입력된 날짜 형식('21923323')이 올바르지 않습니다. YYYY-MM-DD 또는 YYYYMMDD 형식으로 올바르게 다시 입력해 주세요."
+        }
+    ]
+}

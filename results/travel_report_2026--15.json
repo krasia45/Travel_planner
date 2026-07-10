@@ -1,0 +1,123 @@
+{
+    "search_date": "2026--15",
+    "recommendations": [
+        {
+            "destination": "서울 & 경기 (수원)",
+            "weather_summary": "10월 중순은 한국의 전형적인 가을 날씨로, 맑고 청명하며 쾌적합니다. 평균 기온은 15~20°C 내외로 야외 활동하기에 매우 좋습니다.",
+            "local_events": [
+                "수원 화성 문화제 (시기 변동 가능성 있음)",
+                "서울세계불꽃축제 (시기 변동 가능성 있음)"
+            ],
+            "recommendation_reason": "10월 중순의 서울과 그 주변은 쾌적한 가을 날씨로 도심과 자연을 동시에 즐기기에 최적입니다. 고궁의 단풍, 한강의 가을 정취를 만끽하기 좋으며, 수원 화성 축제와 같은 역사적 행사를 통해 한국의 전통문화를 깊이 체험할 수 있습니다. 다양한 문화 행사와 쇼핑, 미식 경험이 풍부하여 활동적인 여행을 선호하는 분들께 강력히 추천합니다.",
+            "restaurants": [
+                {
+                    "name": "명동교자 본점",
+                    "category": "한식 (칼국수, 만두)",
+                    "address": "서울 중구 명동10길 29",
+                    "url": ""
+                },
+                {
+                    "name": "광장시장 순희네 빈대떡",
+                    "category": "길거리 음식, 한식 (빈대떡, 막걸리)",
+                    "address": "서울 종로구 종로32길 5",
+                    "url": ""
+                },
+                {
+                    "name": "가보정 갈비 (수원)",
+                    "category": "한식 (수원 왕갈비)",
+                    "address": "경기 수원시 팔달구 장다리로 282",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "destination": "부산",
+            "weather_summary": "10월 중순의 부산은 해안 도시 특유의 온화한 가을 날씨를 보입니다. 맑고 선선하여 해변을 거닐거나 도시를 탐험하기에 매우 적합합니다.",
+            "local_events": [
+                "부산국제영화제 (BIFF, 시기 변동 가능성 있음)",
+                "부산불꽃축제 (시기 변동 가능성 있음)"
+            ],
+            "recommendation_reason": "10월 중순 부산은 선선하고 맑은 가을 날씨로 해변과 도시를 함께 즐기기에 좋습니다. 부산국제영화제(BIFF)가 진행될 가능성이 높아 도시 전체에 활기찬 문화적 분위기가 가득하며, 해산물 미식과 아름다운 해안 절경을 만끽할 수 있습니다. 광안리, 해운대 등 유명 해변과 감천문화마을 등 볼거리가 풍부하여 매력적인 가을 여행을 선사합니다.",
+            "restaurants": [
+                {
+                    "name": "도우개러지 피자 전포점",
+                    "address": "부산광역시 부산진구 서전로46번길 8 1층 도우개러지",
+                    "category": "음식점>피자",
+                    "url": "https://app.catchtable.co.kr/ct/shop/DOUGHGARAGEJeonpo"
+                },
+                {
+                    "name": "조개대표 광안본점",
+                    "address": "부산광역시 수영구 광남로94번길 16 204호",
+                    "category": "한식>조개요리",
+                    "url": "https://www.instagram.com/clam_food_in_busan/"
+                },
+                {
+                    "name": "솔내음한정식 해운대본점",
+                    "address": "부산광역시 해운대구 달맞이길117번길 17-11 이조빌딩 3층 솔내음한정식",
+                    "category": "한식>한정식",
+                    "url": "https://blog.naver.com/ak49999"
+                },
+                {
+                    "name": "어느멋진날",
+                    "address": "부산광역시 기장군 일광읍 기장해안로 1286 (기장 일광해수욕장 해변 바로 앞)",
+                    "category": "한식>백반,가정식",
+                    "url": "https://app.catchtable.co.kr/ct/shop/onefineday"
+                },
+                {
+                    "name": "광안리 산해횟집",
+                    "address": "부산광역시 수영구 광안해변로344번길 17-20 풍경타워 8층 광안리 산해횟집",
+                    "category": "한식>생선회",
+                    "url": "https://blog.naver.com/yjh7717a"
+                }
+            ]
+        },
+        {
+            "destination": "전주",
+            "weather_summary": "10월 중순 전주는 쾌적하고 맑은 가을 날씨가 이어져 한옥마을을 산책하기에 최적입니다. 낮에는 온화하고 밤에는 선선하여 야외 활동하기 좋습니다.",
+            "local_events": [
+                "전주 비빔밥 축제 (시기 변동 가능성 있음, 보통 10월 하순)",
+                "전주 한지문화축제 (시기 변동 가능성 있음)"
+            ],
+            "recommendation_reason": "10월 중순의 전주는 한복을 입고 한옥마을을 거닐기에 최적의 날씨를 제공합니다. 한국의 전통과 미식을 동시에 경험할 수 있는 최고의 도시로, 가을의 정취 속에서 비빔밥, 콩나물국밥 등 풍부한 한식 문화를 깊이 맛보고 한옥의 아름다움을 만끽할 수 있습니다. 여유롭고 고즈넉한 분위기에서 한국의 정취를 느끼고 싶은 여행객에게 안성맞춤입니다.",
+            "restaurants": [
+                {
+                    "name": "평화와평화",
+                    "address": "전북특별자치도 전주시 완산구 전라감영4길 16-7 3층",
+                    "category": "음식점>카페,디저트",
+                    "url": "https://smartstore.naver.com/peaceorpeace"
+                },
+                {
+                    "name": "베테랑 칼국수",
+                    "address": "전북특별자치도 전주시 완산구 경기전길 135",
+                    "category": "분식>종합분식",
+                    "url": "https://smartstore.naver.com/veteran1977"
+                },
+                {
+                    "name": "카페이르리",
+                    "address": "전북특별자치도 전주시 완산구 은행로 69",
+                    "category": "음식점>카페,디저트",
+                    "url": "https://www.instagram.com/ireuri_cafe.jeonjuhanok/"
+                },
+                {
+                    "name": "조점례남문피순대",
+                    "address": "전북특별자치도 전주시 완산구 풍남문2길 39 조점례 남문피순대",
+                    "category": "한식>순대,순댓국",
+                    "url": "https://smartstore.naver.com/jojeomrye_korea_food"
+                },
+                {
+                    "name": "마시랑게",
+                    "address": "전북특별자치도 전주시 완산구 전동성당길 100 1층 2층",
+                    "category": "음식점>카페,디저트",
+                    "url": "https://www.instagram.com/masirange/"
+                }
+            ]
+        }
+    ],
+    "errors": [
+        {
+            "step": "Restaurant Search",
+            "type": "Fallback Triggered",
+            "message": "'서울 & 경기 (수원)' 지역의 실시간 네이버 API 결과가 없거나 실패하여 LLM 백업 데이터로 대체 바인딩합니다."
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "search_date": "2026-08-25",
+    "recommendations": [
+        {
+            "destination": "부산",
+            "weather_summary": "8월 말 부산은 여전히 덥고 습한 날씨가 지속되지만, 해수욕장 주변에서는 바닷바람이 불어 더위를 식혀줄 수 있습니다. 간헐적인 소나기 가능성도 있습니다.",
+            "local_events": [
+                "해운대 해수욕장 (막바지 운영)",
+                "광안리 해수욕장 (막바지 운영)",
+                "광안리 M 드론 라이트쇼 (상시 운영)"
+            ],
+            "recommendation_reason": "8월 말 부산은 뜨거운 여름의 끝자락에서 시원한 바닷바람을 맞으며 활기찬 도시 분위기를 즐기기에 좋습니다. 해운대, 광안리 해변 등에서 여유로운 시간을 보내거나, 자갈치 시장에서 신선한 해산물을 맛보며 부산만의 독특한 매력을 만끽할 수 있습니다. 피서철 막바지 인파가 줄어들어 비교적 한적하게 여행을 즐길 수 있는 장점도 있습니다.",
+            "restaurants": [
+                {
+                    "name": "도우개러지 피자 전포점",
+                    "address": "부산광역시 부산진구 서전로46번길 8 1층 도우개러지",
+                    "category": "음식점>피자",
+                    "url": "https://app.catchtable.co.kr/ct/shop/DOUGHGARAGEJeonpo"
+                },
+                {
+                    "name": "조개대표 광안본점",
+                    "address": "부산광역시 수영구 광남로94번길 16 204호",
+                    "category": "한식>조개요리",
+                    "url": "https://www.instagram.com/clam_food_in_busan/"
+                },
+                {
+                    "name": "솔내음한정식 해운대본점",
+                    "address": "부산광역시 해운대구 달맞이길117번길 17-11 이조빌딩 3층 솔내음한정식",
+                    "category": "한식>한정식",
+                    "url": "https://blog.naver.com/ak49999"
+                },
+                {
+                    "name": "어느멋진날",
+                    "address": "부산광역시 기장군 일광읍 기장해안로 1286 (기장 일광해수욕장 해변 바로 앞)",
+                    "category": "한식>백반,가정식",
+                    "url": "https://app.catchtable.co.kr/ct/shop/onefineday"
+                },
+                {
+                    "name": "광안리 산해횟집",
+                    "address": "부산광역시 수영구 광안해변로344번길 17-20 풍경타워 8층 광안리 산해횟집",
+                    "category": "한식>생선회",
+                    "url": "https://blog.naver.com/yjh7717a"
+                }
+            ]
+        },
+        {
+            "destination": "제주",
+            "weather_summary": "8월 말 제주는 무더위와 높은 습도가 이어지며, 강한 햇볕과 함께 한두 차례 소나기가 내릴 수 있습니다. 해안가에서는 시원한 바닷바람을 느낄 수 있습니다.",
+            "local_events": [
+                "한라산 국립공원 탐방 (저지대 코스 권장)",
+                "제주 올레길 걷기 (해안 및 숲길 위주)",
+                "협재, 함덕 해수욕장 (막바지 운영)"
+            ],
+            "recommendation_reason": "8월 말 제주는 푸른 바다와 울창한 숲이 어우러진 천혜의 자연경관을 만끽하기에 좋은 시기입니다. 뜨거운 여름 날씨에도 불구하고 해변가나 숲길에서는 비교적 시원함을 느낄 수 있으며, 다양한 해양 스포츠와 에메랄드빛 바다를 배경으로 아름다운 추억을 만들 수 있습니다. 늦여름 제주의 독특한 분위기와 맛있는 해산물 요리를 즐기며 힐링 여행을 계획하기에 안성맞춤입니다.",
+            "restaurants": [
+                {
+                    "name": "우진해장국",
+                    "address": "제주특별자치도 제주시 서사로 11",
+                    "category": "한식>향토음식",
+                    "url": ""
+                },
+                {
+                    "name": "이춘옥원조고등어쌈밥 제주애월본점",
+                    "address": "제주특별자치도 제주시 애월읍 일주서로 7213",
+                    "category": "한식>쌈밥",
+                    "url": "https://www.instagram.com/jeju_gossam"
+                },
+                {
+                    "name": "모루쿠다 서귀포올레시장점",
+                    "address": "제주특별자치도 서귀포시 태평로431번길 32 1층 모루쿠다 서귀포올레시장점",
+                    "category": "한식>해물,생선요리",
+                    "url": "https://www.instagram.com/jejusujeyori/"
+                },
+                {
+                    "name": "고집돌우럭 중문점",
+                    "address": "제주특별자치도 서귀포시 일주서로 879",
+                    "category": "한식>향토음식",
+                    "url": "http://www.instagram.com/gozip_jeju"
+                },
+                {
+                    "name": "동문올레수산 동문시장 본점",
+                    "address": "제주특별자치도 제주시 관덕로14길 10 동문올레수산 동문시장 본점",
+                    "category": "한식>생선회",
+                    "url": "https://blog.naver.com/tlqndi2001"
+                }
+            ]
+        },
+        {
+            "destination": "강릉",
+            "weather_summary": "8월 말 강릉은 여름 막바지의 무더위가 지속되지만, 동해안의 시원한 해풍 덕분에 내륙보다는 덜 답답하게 느껴질 수 있습니다. 간헐적인 소나기 가능성도 있습니다.",
+            "local_events": [
+                "경포 해변, 주문진 해변 (막바지 운영)",
+                "안목해변 커피거리",
+                "강릉 중앙시장"
+            ],
+            "recommendation_reason": "8월 말 강릉은 동해안의 아름다운 해변과 시원한 바닷바람을 즐기며 늦여름 휴가를 보내기에 적합한 도시입니다. 경포대 해수욕장이나 주문진 해변에서 물놀이를 즐기거나, 안목해변 커피거리에서 바다를 바라보며 여유로운 시간을 가질 수 있습니다. 더위를 피해 시원한 바다를 만끽하고, 강릉만의 특별한 음식 문화를 경험하기에 좋은 시기입니다.",
+            "restaurants": [
+                {
+                    "name": "강릉짬뽕순두부 동화가든 본점",
+                    "address": "강원특별자치도 강릉시 초당순두부길77번길 15 동화가든",
+                    "category": "한식>두부요리",
+                    "url": "https://www.donghwagarden.com"
+                },
+                {
+                    "name": "카페 이진리",
+                    "address": "강원특별자치도 강릉시 임영로 234 이진리",
+                    "category": "음식점>카페,디저트",
+                    "url": "https://bio.site/easily"
+                },
+                {
+                    "name": "테라로사 커피공장 강릉본점",
+                    "address": "강원특별자치도 강릉시 구정면 현천길 7",
+                    "category": "카페,디저트>카페",
+                    "url": "https://terarosa.com"
+                },
+                {
+                    "name": "강릉 수제 어묵고로케",
+                    "address": "강원특별자치도 강릉시 금성로13번길 8 1층",
+                    "category": "분식>종합분식",
+                    "url": "http://eomukcroquette.com/"
+                },
+                {
+                    "name": "배니닭강정",
+                    "address": "강원특별자치도 강릉시 금성로13번길 3-1 (성남동)",
+                    "category": "음식점>치킨,닭강정",
+                    "url": "http://smartstore.naver.com/gsbaenni"
+                }
+            ]
+        }
+    ],
+    "errors": []
+}
